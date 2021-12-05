@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+  <!-- Preconnect & DNS-Prefetch
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="dns-prefetch" href="//www.google-analytics.com" crossorigin>
+
+  <!-- ANALYTICS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-61162618-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="https://ledgernote.com/wp-content/themes/ledgernote/favicon.png" />
+  <link rel="apple-touch-icon" href="https://ledgernote.com/wp-content/themes/ledgernote/images/ios-icon.png" />
+
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Top 10 Best Flute Players in the World | LedgerNote</title>
+	<meta name="description" content="It felt pretty straight forward to decide who belongs in the top 10 best flute players in the world list. I believe most of us will agree..." />
+	<link rel="canonical" href="https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Top 10 Best Flute Players in the World | LedgerNote" />
+	<meta property="og:description" content="It felt pretty straight forward to decide who belongs in the top 10 best flute players in the world list. I believe most of us will agree..." />
+	<meta property="og:url" content="https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/" />
+	<meta property="og:site_name" content="LedgerNote" />
+	<meta property="article:publisher" content="https://www.facebook.com/LedgerNote" />
+	<meta property="article:published_time" content="2021-02-09T03:00:05+00:00" />
+	<meta property="article:modified_time" content="2021-08-27T23:37:02+00:00" />
+	<meta property="og:image" content="https://ledgernote.com/wp-content/uploads/2021/02/best-flute-players.jpg" />
+	<meta property="og:image:width" content="125" />
+	<meta property="og:image:height" content="125" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@theLedgerNote" />
+	<meta name="twitter:site" content="@theLedgerNote" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Jared H." />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="16 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ledgernote.com/#website","url":"https://ledgernote.com/","name":"LedgerNote","description":"Playing, Writing, &amp; Marketing Your Music","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ledgernote.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/#primaryimage","inLanguage":"en-US","url":"https://ledgernote.com/wp-content/uploads/2021/02/best-flute-players.jpg","contentUrl":"https://ledgernote.com/wp-content/uploads/2021/02/best-flute-players.jpg","width":125,"height":125,"caption":"best flute players"},{"@type":"WebPage","@id":"https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/#webpage","url":"https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/","name":"Top 10 Best Flute Players in the World | LedgerNote","isPartOf":{"@id":"https://ledgernote.com/#website"},"primaryImageOfPage":{"@id":"https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/#primaryimage"},"datePublished":"2021-02-09T03:00:05+00:00","dateModified":"2021-08-27T23:37:02+00:00","author":{"@id":"https://ledgernote.com/#/schema/person/cc8b82354e5e9d151d17953fced9d4af"},"description":"It felt pretty straight forward to decide who belongs in the top 10 best flute players in the world list. I believe most of us will agree...","breadcrumb":{"@id":"https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/"]}]},{"@type":"BreadcrumbList","@id":"https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://ledgernote.com/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://ledgernote.com/blog/"},{"@type":"ListItem","position":3,"name":"Interesting","item":"https://ledgernote.com/blog/interesting/"},{"@type":"ListItem","position":4,"name":"Top 10 Best Flute Players in the World"}]},{"@type":"Person","@id":"https://ledgernote.com/#/schema/person/cc8b82354e5e9d151d17953fced9d4af","name":"Jared H.","description":"Jared has surpassed his 20th year in the music industry. He acts as owner, editor, lead author, and web designer of LedgerNote, as well as co-author on all articles. He has released 4 independent albums and merchandise to global sales. He has also mixed, mastered, &amp; recorded for countless independent artists. Learn more about Jared &amp; The LN Team here.","sameAs":["https://ledgernote.com"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//scripts.mediavine.com' />
+<link rel='stylesheet' id='jbh-style-css'  href='https://ledgernote.com/wp-content/themes/ledgernote/style.min.css' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://ledgernote.com/wp-content/plugins/rocket-lazy-load/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<script type='text/javascript' async="async" data-noptimize="1" data-cfasync="false" src='https://scripts.mediavine.com/tags/ledgernote.js' id='mv-script-wrapper-js'></script>
+<script type='text/javascript' src='https://ledgernote.com/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://ledgernote.com/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript> 
+</head>
+
+<body class="post-template-default single single-post postid-20585 single-format-standard">
+  
+  <!-- HEADER ELEMENTS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  <div id="nav">
+	<div id="nav-trigger">
+    	<span class="caticon-menu"></span> <span class="burger-menu">Menu</span>
+    	<span class="logo-icon">
+			<a href="https://ledgernote.com"><div class="caticon-ln"></div></a>
+		</span>
+	</div>
+    <div class="nav-menu"><ul id="menu-header" class="menu"><li id="menu-item-11158" class="item-features menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11158"><a href="https://ledgernote.com/features/">Features</a></li>
+<li id="menu-item-11160" class="item-columns menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11160"><a href="https://ledgernote.com/columns/">Columns</a>
+<ul class="sub-menu">
+	<li id="menu-item-10836" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10836"><a href="https://ledgernote.com/columns/mixing-mastering/"><div class="caticon-mixing caticon-m"></div> Mixing &#038; Mastering</a></li>
+	<li id="menu-item-10837" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10837"><a href="https://ledgernote.com/columns/music-theory/"><div class="caticon-theory caticon-m"></div> Music Theory</a></li>
+	<li id="menu-item-10838" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10838"><a href="https://ledgernote.com/columns/studio-recording/"><div class="caticon-studio caticon-m"></div> Studio Recording</a></li>
+	<li id="menu-item-10835" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10835"><a href="https://ledgernote.com/columns/guitar-guru/"><div class="caticon-guitar caticon-m"></div> Guitar Guru</a></li>
+	<li id="menu-item-10832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10832"><a href="https://ledgernote.com/columns/beat-production/"><div class="caticon-beat caticon-m"></div> Beat Production</a></li>
+	<li id="menu-item-10834" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10834"><a href="https://ledgernote.com/columns/gigs-live-performance/"><div class="caticon-gigs caticon-m"></div> Gigs &#038; Live Performance</a></li>
+	<li id="menu-item-10833" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10833"><a href="https://ledgernote.com/columns/careers-marketing/"><div class="caticon-marketing caticon-m"></div> Careers &#038; Marketing</a></li>
+</ul>
+</li>
+<li id="menu-item-11157" class="item-blog menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-11157 current-menu-item"><a href="https://ledgernote.com/blog/">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-10830" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10830"><a href="https://ledgernote.com/blog/interesting/"><div class="caticon-interesting caticon-m"></div> Interesting</a></li>
+	<li id="menu-item-10831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10831"><a href="https://ledgernote.com/blog/q-and-a/"><div class="caticon-question caticon-m"></div> Q &#038; A</a></li>
+</ul>
+</li>
+<li id="menu-item-7842" class="item-reviews menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7842"><a title="item-reviews" href="https://ledgernote.com/reviews/">Reviews</a></li>
+<li id="menu-item-11159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11159"><a href="https://ledgernote.com/search/">Search</a></li>
+</ul></div>	
+	<div id="nav-search">    
+      <form class="searchbox" action="https://ledgernote.com" method="get">
+        <input type="search" placeholder="Search..." name="s" class="searchbox-input" onkeyup="buttonUp();" required>
+        <input type="submit" class="searchbox-hide" value="">
+        <span class="searchbox-icon"><span class="caticon-search"></span></span>
+      </form>
+    </div>
+	  
+  </div> <!-- #nav -->
+	  
+  <div class="menu-bottom-line"></div>
+
+  <!-- PRIMARY LAYOUT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <div class="container">
+
+    <div class="row">
+      <div class="page-wrap-blog">
+
+              <div class="post-wrap-blog" id="content">
+
+                <p id="breadcrumbs">	•
+<span><span><a href="https://ledgernote.com/">Home</a> » <span><a href="https://ledgernote.com/blog/">Blog</a> » <span><a href="https://ledgernote.com/blog/interesting/">Interesting</a> » Here</span></p>
+          <div class="thumb-title-meta-wrap">
+            <div class="square-thumb-post">
+			  <img width="125" height="125" src="https://ledgernote.com/wp-content/uploads/2021/02/best-flute-players.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="best flute players" loading="lazy" data-no-lazy="1" />			</div>
+            <h1 class="blog-page">Top 10 Best Flute Players in the World</h1>
+            <div class="blog-post-meta-wrap"><span class="loop-blog-date">Updated: <time itemprop="dateModified" datetime="2021-08-27">Aug 27, 2021</time></span> &#8226; 
+            <span class="loop-blog-category"><a href="https://ledgernote.com/blog/interesting/" class="catlink">Interesting</a>             </span>
+             </div>
+           </div>
+		   <div class="u-cf"></div> 
+			
+                
+<p class="has-drop-cap">It felt pretty straight forward to decide who belongs in the top 10 best flute players in the world list. I believe most of us will agree with the choices, but where the discussion really begins is with the order in the rankings, due to the subjectivity involved.</p>
+
+
+
+<p>Part of the issue is, to be included the flutist had to be among the most skilled, period. But we also took into consideration their creativity levels, their techniques, and their contributions to keeping this instrument live in the public mind, much like we did in our <a href="https://ledgernote.com/blog/interesting/best-harmonica-players-of-all-time/">Best Harmonica Players of All Time</a> list.</p>
+
+
+
+<p>Being stuck with only ten top picks was hard so we added several runners up as well as a list of honorable mentions too, so if you don't see your pick for best flautist, keep looking further down. Let's go ahead and jump into the <em>list of the best flute players in the world...</em></p>
+
+
+
+<h2>#10 - Matt Malloy</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Matt Malloy is one of the best flute players in the world, known for his work with the Chieftains and the Irish Chamber Orchestra" class="wp-image-20710" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/matt-molloy.jpeg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/matt-molloy.jpeg" alt="Matt Malloy is one of the best flute players in the world, known for his work with the Chieftains and the Irish Chamber Orchestra" class="wp-image-20710"/></noscript></figure>
+
+
+
+<h3>Associated Acts: The Chieftains, Irish Chamber Orchestra, The Bothy Band</h3>
+
+
+
+<p>Matt Malloy has had a long and illustrious career, and it started when he was very young. Malloy was born Irish into a community that produces some of the best flutists in the world. At just nineteen years old, he won the All-Ireland Flute Championship, which led him to be thought of as one of the most talented Irish flute players ever.</p>
+
+
+
+<p>In the 1970s, he joined the Bothy Band and became the band’s successor, which he took advantage of to re-found Planxty, the Irish folk band known for making Irish folk music popular. Throughout his career, Malloy has worked with quite a few top musicians, including the Irish Chamber Orchestra.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> Not only is Malloy a talented flutist, but he also dabbled in a bit of acting throughout his career. You can view him in a few Irish films such as “An Eviction Notice,” “Celtic Tides,” and “An Irish Evening: Live and the Grand Opera House.” He is also the owner of a Pub in Westport on Bridge Street that features live Irish music.</p></blockquote>
+
+
+
+<h2>#9 - Julius Baker</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Julius Baker is one of the best flute players of all time, working with some of the top orchestras around the globe." class="wp-image-20711" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/julius-baker.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/julius-baker.jpg" alt="Julius Baker is one of the best flute players of all time, working with some of the top orchestras around the globe." class="wp-image-20711"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Chicago Symphony Orchestra, New York Philharmonic Orchestra</h3>
+
+
+
+<p>Julius Baker has been playing the flute since he was nine years old with the help of his Russian immigrant father. He studied under August Caputo and Robert Morris before attending the Eastman School of Music under the wing of Leonardo De Lorenzo.</p>
+
+
+
+<p>After finishing school, he scored the position of the second flute in the Cleveland Orchestra, one of the <a href="https://ledgernote.com/blog/interesting/best-orchestras-in-the-world/">best orchestras in the world</a>, and went on to a principal flute tenure in the New York Philharmonic.</p>
+
+
+
+<p>Baker was a huge fan of chamber music and helped found the Bach Aria Group. He had a prominent career as a professor at Juilliard, Curtis Institute of Music, and Carnegie Mellon. Baker also produced a handful of flute albums, and many considered his music the most beautiful they’d ever heard.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> Julius Baker took part in scoring major films such as “The Little Mermaid,” “Beauty and the Beast,” and “Lovesick.” He also loved electronics and considered himself to be an amateur ham radio operator. He enjoyed building audio equipment and taping his solo recordings early in his career.</p></blockquote>
+
+
+
+<h2>#8 - Robert Dick</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Robert Dick is one of the best flutists in the world, known for making a mark like inventing new parts for the flute instrument." class="wp-image-20712" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/robert-dick.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/robert-dick.jpg" alt="Robert Dick is one of the best flutists in the world, known for making a mark like inventing new parts for the flute instrument." class="wp-image-20712"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Creative Associates, New York Philharmonic Orchestra</h3>
+
+
+
+<p>Robert Dick was a prominent flutist, teacher, author, and composer. He is known for being the inventor of the “glissando headjoint,” which is a custom-style flute head that gives flutes the ability to mimic the sounds of an electric guitar-like whammy bar.</p>
+
+
+
+<p>Robert began playing the flute in the fourth grade and studied under many prominent musicians, including Julius Baker. After finishing school, Dick moved to Buffalo, New York, to join the Creative Associates. During that time, he wrote a second book and developed himself as a top-tier composer. Dick’s genres include classical, jazz, contemporary jazz, and also “free improvisation,” which explains his glissando headjoint tunes.</p>
+
+
+
+<p>Over the years, he continued to grow his career as a soloist, developer, and composer. He typically splits his time between New York and Kassel, Germany performing his own music and spending time with his family.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> He won the Lifetime Achievement Award from the National Flute Association in 2014. His work has been recognized by a Guggenheim Fellowship, NEA Composers Fellowships, and a Koussevitzky Foundation Commission. He has produced more than twenty albums and appeared in many other guest recordings.</p></blockquote>
+
+
+
+<h2>#7 - Emmanuel Pahud</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Emmanuel Pahud is one of the best flutists of all time. He focuses on classical and baroque styles." class="wp-image-20713" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/emmanuel-pahud.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/emmanuel-pahud.jpg" alt="Emmanuel Pahud is one of the best flutists of all time. He focuses on classical and baroque styles." class="wp-image-20713"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Berlin Philharmonic Orchestra</h3>
+
+
+
+<p>Emmanuel Pahud is a Franco-Swiss flute player. He is known most for his classical and baroque style flute playing. His family was not musical, and he found his love for flute music living in Italy. Pahud studied the flute from age four until 22 under prominent musicians such as Carlos Bruneel and Aurele Niccolet.</p>
+
+
+
+<p>In 1992, he joined the Berlin Philharmonic as the youngest flute player ever. He is a self-proclaimed musical chameleon and boasts that he does not represent a particular style; rather, he chooses to adapt to any style he is given. Today, he shares the principal flute position on the Berlin Philharmonic with Mathieu Dufour.</p>
+
+
+
+<p>His creativity and flexibility, not to mention his talent and dedication, has made him one of the few and rare young modern players on this list of best flute players in the world.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> The first flute Pahud ever played was a silver-plated Yamaha. He spent a lot of his childhood traveling around the world, which helped him discover the many sounds of the flute and opened up a world of musical greatness.</p></blockquote>
+
+
+
+<h2>#6 - Bobbi Humphrey</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Bobbi Humphrey plays jazz fusion, soul-jazz, and funk flute. She's known for her time with Blue Note Records." class="wp-image-20714" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/bobbi-humphrey.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/bobbi-humphrey.jpg" alt="Bobbi Humphrey plays jazz fusion, soul-jazz, and funk flute. She's known for her time with Blue Note Records." class="wp-image-20714"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Blue Note Records</h3>
+
+
+
+<p>Born Barbara Ann, Bobbi Humphrey is a well-known American jazz singer and flutist. She is most known for playing jazz fusion, soul-jazz, and funk. After high school, Humphrey studied at Texas Southern University and Southern Methodist University.</p>
+
+
+
+<p>After college, she moved to New York and began her career almost immediately. She signed under George Butler with the Blue Note. She recorded with many prominent artists throughout her musical career, which helped grow her audience and reputation. One of the most notable was <em>Blacks and Blues </em>with the Mizell Brothers.</p>
+
+
+
+<p>However, Bobbi did not see much financial success from her Blue Note albums, so in 1977 she shifted her focus to the business end of the music industry. Through this, she created the Bobbi Humphrey Music Company and even signed an agreement with Warner Bros.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> She was the first female flutist to be signed by Blue Note. While at Southern Methodist, she was approached by Dizzy Gillespie, who advised her to move to New York to become a musician. Throughout her career, Humphrey has played with Duke Ellington and George Benson.</p></blockquote>
+
+
+
+<h2>#5 - Marcel Moyse</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Marcel Moyce is probably the best known French flutist who's skill levels increased in record times." class="wp-image-20715" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/marcel-moyse.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/marcel-moyse.jpg" alt="Marcel Moyce is probably the best known French flutist who's skill levels increased in record times." class="wp-image-20715"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Orchestre de la Societe des Concerts du Conservatoire</h3>
+
+
+
+<p>Marcel Moyce was a well-known French flutist in his time. In the early 1900s, he moved to Paris to live with his uncle, Joseph Moyce, where he learned what the life of a professional musician was like.</p>
+
+
+
+<p>Joseph Moyce bought Marcel a flute and enrolled him in daily sessions of extensive practice sessions. Marcel Moyce met Adolphe Hennebains and became his pupil, who began his career.</p>
+
+
+
+<p>After one year of training, Marcel was granted the achievement of performing a piece by Phillipe Gaubert with the Paris Conservatoire. By 1936, Moyce had a very successful career. He traveled all over the world and performed in all major cities, including many appearances in London.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> He was one of the only flutists in history to qualify for a first prize after one year of training at the Conservatoire. He was also a founder of the Marlboro Music School and festival, where he taught students how to make music, not how to play the flute.</p></blockquote>
+
+
+
+<h2>#4 - Jeanne Baxtresser</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Jeanne Baxtresser is an American flutist and is our 4th best flute player in the world. Even at 14 years of age she played with the Minnesota Orchestra." class="wp-image-20716" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/jeanne-baxtresser.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/jeanne-baxtresser.jpg" alt="Jeanne Baxtresser is an American flutist and is our 4th best flute player in the world. Even at 14 years of age she played with the Minnesota Orchestra." class="wp-image-20716"/></noscript></figure>
+
+
+
+<h3>Associated Acts: New York Philharmonic</h3>
+
+
+
+<p>Jeanne Baxtresser is an American teacher and flutist. Her mother was a top concert pianist, so she grew up surrounded by music. At ten years old, she began to play the flute and immediately took a liking to it.</p>
+
+
+
+<p>She studied under Emil Opava of the Minnesota Orchestra. She also studied under Gary Sigurdson at the Interlochen National Music Camp and Academy.</p>
+
+
+
+<p>At fourteen, she made her first appearance in the Minnesota Orchestra. After that, she went to Julliard and studied under Julius Baker and many other prominent flutists. She went on to become the first female principal flute of the New York Philharmonic and was featured in more than fifty solos.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> Before the flute, Jeanne tried her hand at the piano but noted that it was a complete disaster and quickly moved on. She has won the Nation Flute Association’s Lifetime Achievement Award for her contributions to the flute world. She also received the distinguished “University Professor” position at Carnegie Mellon.</p></blockquote>
+
+
+
+<h2>#3 - Jean-Pierre Rampal</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Jean-Pierre Rampal is another French flute player, having the benefit of having a father that was a flute teacher." class="wp-image-20717" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/jean-pierre-rampal.jpeg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/jean-pierre-rampal.jpeg" alt="Jean-Pierre Rampal is another French flute player, having the benefit of having a father that was a flute teacher." class="wp-image-20717"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Paris Opera, Ensemble Baroque de Paris</h3>
+
+
+
+<p>Jean-Pierre Rampal was a French flute player known for returning the flute to its popularity as a solo classical instrument for the first time since the 18th century. He was the son of a flute teacher, but his parents initially wanted him to become a doctor and sent him to medical school.</p>
+
+
+
+<p>He began studying the flute at the Paris Conservatory and won its competition. He started his career after the war in the Vichy Opera and became the first flute in the Paris Opera. Not only did Rampal found the French Wind Quintet, but he also edited Baroque music and taught.</p>
+
+
+
+<p>He is most admired for his authentic approach to 18-century music through his mastery of tonal nuance and articulated tone. As far as raw skill goes, Rampal is definitely one of the best flute players, period.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> He published an autobiography titled <em>Music, My Love</em>, in 1989. Top musicians Andre Jolviet and Francis Poulenc also composed musical works for him. Sheryl Cohen created the Rampal School to study his methods and influences.</p></blockquote>
+
+
+
+<h2>#2 - Georges Barrere</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="George Barrere is one of the best flute players of all time, starting on the penny-whistle as a young boy." class="wp-image-20718" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/georges-barrere.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/georges-barrere.jpg" alt="George Barrere is one of the best flute players of all time, starting on the penny-whistle as a young boy." class="wp-image-20718"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Modern Society for Wind Instruments, New York Symphony Orchestra</h3>
+
+
+
+<p>Georges Barrere was born the son of a cabinetmaker and a farmer’s daughter. He did not come from a musical family. He began taking music lessons after following the band from Ecole Drouet around the streets of town playing his penny-whistle. The band encouraged him and pushed Georges to take music lessons in Paris.</p>
+
+
+
+<p>He was originally rejected by the Paris Conservatory, but after studying under Henry Atles for some time, he was accepted at fourteen years old.</p>
+
+
+
+<p>When he was seventeen, Georges began playing in the orchestra at Folies Bergere. Once he was done with his studies, Barerre created the Modern Society for Wind Instruments and began teaching young up-and-coming musicians.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> He founded the Barrere Ensemble in 1910 and expanded it into the Barrere Little Symphony in 1914. This made the flute more well-known as an important solo instrument.</p></blockquote>
+
+
+
+<h2>#1 - Sir James Galway</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Sir James Galway is our top pick for the best flute players in the world. He's an Irish flutist known for bridging music genres effortlessly." class="wp-image-20719" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/james-galway.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/james-galway.jpg" alt="Sir James Galway is our top pick for the best flute players in the world. He's an Irish flutist known for bridging music genres effortlessly." class="wp-image-20719"/></noscript></figure>
+
+
+
+<h3>Associated Acts: London Symphony Orchestra, Royal Philharmonic Orchestra</h3>
+
+
+
+<p>James Galway is an Irish flutist known for his ability to bridge together and blend classical, folk, and other musical traditions together. He is also known for his showmanship as he boots a golden flute and huge stage presence.</p>
+
+
+
+<p>He began playing the flute at a young age and obtained most of his training through his father and grandfather performing with local bands. He won all three solos in Ireland’s National Flute Championships at ten years old. He studied under Jean-Pierre Rampal and Gaston Crunelle at the Paris Conservatory, along with some private training from Marcel Moyce.</p>
+
+
+
+<p>Galway is praised for his technique, remarkable range, and emotional depth as a solo artist. He also enjoyed playing traditional Irish music and collaborated with the Irish group The Chieftains and the Celtic Minstrel. James Galway is also the president of the charity Flutewise, which is a foundation that supports young flutists worldwide.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> Galway has gotten many awards for his contributions to music. He was given the title Officer of the Order of the British Empire and was knighted by Queen Elizabeth II in 2001. In 2014, he was granted the Gramophone Lifetime Achievement Award.</p></blockquote>
+
+
+
+<h2>Runners Up: Who's Almost One of the Best Flute Players of All Time?</h2>
+
+
+
+<p>It's way too hard to choose only a top 10 when there's so many other flutists that deserve recognition for their creativity and contributions to the instrument. Plus, we know you may have chosen other players in your own top 10, so here's 4 more runners up and a bunch of honorable mentions so nobody is left out.</p>
+
+
+
+<h2>Ian Anderson</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Ian Andersan is known for being the vocalist and rock music flute player in the band Jethro Tull." class="wp-image-20720" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/ian-anderson.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/ian-anderson.jpg" alt="Ian Andersan is known for being the vocalist and rock music flute player in the band Jethro Tull." class="wp-image-20720"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Jethro Tull</h3>
+
+
+
+<p>Ian Anderson is known worldwide as a rock music flute player and vocalist behind Jethro Tull. Anderson was not born into music, but after finishing traditional schooling, he moved on to study fine arts before trying his hand at a career in music.</p>
+
+
+
+<p>Ian Anderson is most widely known as the man who brought the flute into the world of rock music. He pioneered rock genres of flute playing. Anderson also plays ethnic flutes and instrumental bits along with acoustic sounds.</p>
+
+
+
+<p>In recent years, Anderson has separated from the band and focuses more on a solo career while appearing in orchestras, acoustic shows, and other string quartets.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> Anderson has never taken a driver’s test and does not own a car. He has a few motorcycles for off-road competition. He also has a keen interest in protecting wild cats that have been rescued from captivity.</p></blockquote>
+
+
+
+<h2>Greg Pattillo</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Greg Pattillo is an accomplished flute player who also experiments with beatboxing while he plays the instrument." class="wp-image-20721" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/greg-pattillo.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/greg-pattillo.jpg" alt="Greg Pattillo is an accomplished flute player who also experiments with beatboxing while he plays the instrument." class="wp-image-20721"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Project Trio, Guangzhou Symphony Orchestra</h3>
+
+
+
+<p>Greg Pattillo is an American musician from Seattle who is known for his beatboxing flute music. He is known as the best in the world for the music he creates. To be fair, the unique sound isn’t easy to replicate, which means Pattillo practically dominates his field.</p>
+
+
+
+<p>Pattillo studied under the principal flutist of the Cleveland Orchestra, Joshua Smith, at the Cleveland Institute of Music. Pattillo is also a composer who combines elements of hip hop and jazz into his flute music.</p>
+
+
+
+<p>The bulk of his musical career is in performing as a freelance and solo flute player. He is the flutist of musical group PROJECT Trio, which is a chamber music group in New York. But Pattillo’s projects also include flute music for films like <em>LEGO Ninjago</em>, with a handful of his tunes serving as part of the official soundtrack.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> Pattillo appeared on an episode of <em>iCarly</em> on Nickelodeon as Sam Puckett’s cousin. He also has recordings on iCarly.com. Pattillo also made an appearance on <em>Lily Allen and Friends</em> on BBC Three.</p></blockquote>
+
+
+
+<h2>Jasmine Choi</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Jasmine Choi is an upcoming flutist who is already considered one of the best ever." class="wp-image-20722" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/jasmine-choi.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/jasmine-choi.jpg" alt="Jasmine Choi is an upcoming flutist who is already considered one of the best ever." class="wp-image-20722"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Cincinnati Symphony Orchestra, Vienna Symphony</h3>
+
+
+
+<p>Jasmine Choi is an original native of Korea and is a chamber musician, orchestral musician, and solo flutist. She is most known for her ability to combine rich tones, charisma, technicality, and perfect musicianship. She was given the title Associate Principal Flute of the Cincinnati Symphony at the age of 22 and is the first Korean player to hold a major orchestral post in the United States.</p>
+
+
+
+<p>Choi was nominated as one of America’s Emerging Artists many times throughout her career. She began her music career playing the violin and piano but switched to the flute at nine years old. She began her solo career at fourteen in Korea and is a national sensation.</p>
+
+
+
+<p>Choi came to America at sixteen and studied under Julius Baker and Jeffrey Khaner. She was the last student Baker taught before his passing. Later, Choi moved to Austria, though her most memorable time in the spotlight was arguably her post in the Cincinnati Symphony.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> As a musical student, Choi won the senior division of the Albert M. Greenfield Student Competition run by the Philadelphia Orchestra. She was listed in 2006 as one of the emerging flutists by <em>Symphony Magazine.</em></p></blockquote>
+
+
+
+<h2>Herbie Mann</h2>
+
+
+
+<figure class="wp-block-image size-large thin"><img loading="lazy" width="600" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20400'%3E%3C/svg%3E" alt="Herbie Mann is credited as being the player that made the flute popular as a jazz instrument." class="wp-image-20723" data-lazy-src="https://ledgernote.com/wp-content/uploads/2021/02/herbie-mann.jpg"/><noscript><img loading="lazy" width="600" height="400" src="https://ledgernote.com/wp-content/uploads/2021/02/herbie-mann.jpg" alt="Herbie Mann is credited as being the player that made the flute popular as a jazz instrument." class="wp-image-20723"/></noscript></figure>
+
+
+
+<h3>Associated Acts: Antonio Carlos Jobim, Cissy Houston</h3>
+
+
+
+<p>Herbie Mann is known as the man who made the flute a popular jazz instrument and introduced many other culture’s music into American jazz. He began playing the clarinet at nine years old, and began his career on the tenor saxophone. He started focusing on the flute in the 1950s and became one of the first musicians to introduce the flute into the world of Jazz.</p>
+
+
+
+<p>In the 1960s, Mann started incorporating Brazillian music into his Jazz works by recording music with Antonio Carlos Jobim and Sergio Mendes. Later, he started incorporating African, Middle Eastern, and Japanese elements into his Jazz music as well.</p>
+
+
+
+<p>Mann is also known for working with young musicians throughout his career who later became stars such as Chick Corea (one of the <a href="https://ledgernote.com/blog/interesting/best-keyboard-players-in-the-world/">best keyboard players in the world</a>) and Roy Ayers. One of his last albums was a collaboration with saxophone player Phil Woods.</p>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Trivia Facts:</strong> He had a big hit single titled “Hijack” that lived as a Billboard #1 dance song in 1975. In 1969, he founded Embryo Records. His music was not loved by everyone at first, and many refused to recognize him as an artist until he began rising in popularity through the course of his career.</p></blockquote>
+
+
+
+<h2>Honorable Mentions for the Best Flute Players in the World</h2>
+
+
+
+<p>It's not like the flute is that rare of an instrument. It's hard to stop with just a top 10 and even some runners up. Your favorite flautist may not have been mentioned yet and they definitely deserve some recognition with at least a shout out. Here's a bunch more with a great chance of climbing into the rankings above over time.</p>
+
+
+
+<ul><li>Gareth Davies (London Symphony Orchestra)</li><li>Andrea Griminelli (English Chamber Orchestra)</li><li>Katherine Bryan (Royal Scottish National Orchestra)</li><li>Karl Heinz Schutz (Wiener Philharmoniker)</li><li>Jean Ferrandis (Professor of Flute at l'École Normale)</li><li>Claire Chase (Professor of the Practice at Harvard)</li><li>Ray Thomas (Moody Blues)</li><li>Kevin Crawford (Lunasa)</li></ul>
+
+
+
+<p>We'll have to stop here or we'll end up talking about this forever. That's what makes this such an interesting conversation. Depending on who you ask, or how you measure the flutists, the entire top 10 could rotate out or at least be rearranged in order.</p>
+
+
+<p>Since the harmonica is a very vocal instrument, we figure you might enjoy the adventure of finding out who the <a href="https://ledgernote.com/blog/interesting/best-singers-of-all-time/">best singers of all time</a> are, too. It takes a lot of the same skillset to master etiher of these instruments. Thanks for sticking with us all the way through the list of the best flute players in the world!<span class="hanko-stamp caticon-ln"></span></p>
+		<div> <!-- group to stop mediavine ads from adding inside -->
+					<div class="share-container">
+           <a target="_blank" class="sharelink" rel="nofollow noopener" href="https://www.facebook.com/sharer.php?u=https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/&t=Top 10 Best Flute Players in the World">
+           <div class="share-wrap wrap-facebook">
+             <div class="share-block">
+               <span class="left-share-block left-facebook"><span class="socicon-facebook share-socicon"></span></span>
+             </div>
+               <span class="share-text">Share<span class="share-bye"> on Facebook</span></span>
+           </div>
+           </a>
+          
+          <a target="_blank" class="sharelink" rel="nofollow noopener" href="https://twitter.com/intent/tweet?url=https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/&text=Top 10 Best Flute Players in the World&via=theLedgerNote"> 
+          <div class="share-wrap wrap-twitter">
+            <div class="share-block">
+               <span class="left-share-block left-twitter"><span class="socicon-twitter share-socicon"></span></span>
+            </div>
+               <span class="share-text">Tweet<span class="share-bye"> on Twitter</span></span>
+          </div>
+          </a>
+          
+          <a target="_blank" class="sharelink" rel="nofollow noopener" href="https://www.reddit.com/submit?url=https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/&title=Top 10 Best Flute Players in the World&resubmit=true">
+          <div class="share-wrap wrap-reddit share-wrap-no-margin">
+             <div class="share-block">
+               <span class="left-share-block left-reddit"><span class="socicon-reddit share-socicon"></span></span>
+             </div>
+				<span class="share-text">Submit<span class="share-bye"> on Reddit</span></span>
+           </div>
+           </a>
+       </div>	
+			<div id="email-optin-blog-content">
+				<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" class="email-optin">
+<form action="//ledgernote.us10.list-manage.com/subscribe/post?u=b8abfe94eaaabad483e3ed60c&amp;id=6bd1de648f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	Join Our Mailing List
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="your email address">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_b8abfe94eaaabad483e3ed60c_6bd1de648f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" name="subscribe" value="submit" id="mc-embedded-subscribe" class="button"></div>
+    <div class="no-spam">No Spam.  Just Industry News, Tips, and Exclusive Deals.</div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->	
+			</div>
+		   
+	<div class="author-box">
+		<h3 itemprop="author" itemscope itemtype="http://schema.org/Person">
+			<span itemprop="name">
+				Jared H.			</span>
+		</h3>
+		<img itemprop="image" class="author-pic" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%20125'%3E%3C/svg%3E" alt="Jared H. LedgerNote Author Headshot" width="125" height="125" data-lazy-src="https://ledgernote.com/wp-content/uploads/2020/04/Jared-H-Headshot.jpg" /><noscript><img itemprop="image" class="author-pic" src="https://ledgernote.com/wp-content/uploads/2020/04/Jared-H-Headshot.jpg" alt="Jared H. LedgerNote Author Headshot" width="125" height="125" /></noscript>
+		<span itemprop="description">Jared has surpassed his 20th year in the music industry. He acts as owner, editor, lead author, and web designer of LedgerNote, as well as co-author on all articles. He has released 4 independent albums and merchandise to global sales. He has also mixed, mastered, &amp; recorded for countless independent artists. Learn more about <a href="https://ledgernote.com/about/">Jared &amp; The LN Team here</a>.</span>
+		<div class="u-cf"></div>
+	</div> <!-- /author-box -->		   <div id="related-blog-posts"><span class="related-blog-posts-header">But Wait, There's More!</span><ul class="related-blog-posts-list"><li><a href="https://ledgernote.com/blog/interesting/best-selling-albums-of-all-time/" class="relatedlink" title="Top 10 Best-Selling Albums of All Time"><img class="related-blog-post-thumb" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%20125'%3E%3C/svg%3E" alt="best-selling albums of all time" width="125" height="125" data-lazy-src="https://ledgernote.com/wp-content/uploads/2020/05/best-selling-albums-of-all-time.jpg" /><noscript><img class="related-blog-post-thumb" src="https://ledgernote.com/wp-content/uploads/2020/05/best-selling-albums-of-all-time.jpg" alt="best-selling albums of all time" width="125" height="125" /></noscript><span class="related-blog-post-title">Top 10 Best-Selling Albums of All Time</span></a></li><li><a href="https://ledgernote.com/blog/interesting/25-crazy-science-supported-facts-about-music/" class="relatedlink" title="25 Crazy Science-Supported Facts About Music"><img class="related-blog-post-thumb" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%20125'%3E%3C/svg%3E" alt="science facts about music" width="125" height="125" data-lazy-src="https://ledgernote.com/wp-content/uploads/2016/06/science-facts-about-music.png" /><noscript><img class="related-blog-post-thumb" src="https://ledgernote.com/wp-content/uploads/2016/06/science-facts-about-music.png" alt="science facts about music" width="125" height="125" /></noscript><span class="related-blog-post-title">25 Crazy Science-Supported Facts About Music</span></a></li><li><a href="https://ledgernote.com/blog/interesting/sakura-traditional-japanese-song-on-koto/" class="relatedlink" title="Sakura - Traditional Japanese Song on Koto"><img class="related-blog-post-thumb" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%20125'%3E%3C/svg%3E" alt="sakura" width="125" height="125" data-lazy-src="https://ledgernote.com/wp-content/uploads/2015/06/sakura.jpg" /><noscript><img class="related-blog-post-thumb" src="https://ledgernote.com/wp-content/uploads/2015/06/sakura.jpg" alt="sakura" width="125" height="125" /></noscript><span class="related-blog-post-title">Sakura - Traditional Japanese Song on Koto</span></a></li><li><a href="https://ledgernote.com/blog/interesting/best-drummers-of-all-time/" class="relatedlink" title="Top 10 Best Drummers of All Time"><img class="related-blog-post-thumb" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20125%20125'%3E%3C/svg%3E" alt="best drummers of all time" width="125" height="125" data-lazy-src="https://ledgernote.com/wp-content/uploads/2020/04/best-drummers-of-all-time.jpg" /><noscript><img class="related-blog-post-thumb" src="https://ledgernote.com/wp-content/uploads/2020/04/best-drummers-of-all-time.jpg" alt="best drummers of all time" width="125" height="125" /></noscript><span class="related-blog-post-title">Top 10 Best Drummers of All Time</span></a></li></ul></div>		</div>
+
+       </div> <!-- /post-wrap-blog -->
+
+            
+	    <!-- SIDEBAR ELEMENTS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="sidebar-page-blog">
+
+   <!-- reset loop only in blog sidebar -->
+   	<div class="sidebar-share">
+      <div class="share">Share</div>
+        <ul>
+          <li><a target="_blank" rel="nofollow noopener" href="https://www.facebook.com/sharer.php?u=https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/&t=Top 10 Best Flute Players in the World"><span class="sidebar-icon socicon-facebook"></span> Facebook</a></li>
+          <li><a target="_blank" rel="nofollow noopener" href="https://twitter.com/intent/tweet?url=https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/&text=Top 10 Best Flute Players in the World&via=theLedgerNote"><span class="sidebar-icon socicon-twitter"></span> Twitter</a></li>
+          <li><a target="_blank" rel="nofollow noopener" href="https://www.reddit.com/submit?url=https://ledgernote.com/blog/interesting/best-flute-players-in-the-world/&title=Top 10 Best Flute Players in the World&resubmit=true"><span class="sidebar-icon socicon-reddit"></span> Reddit</a></li>
+        </ul>
+    </div>    
+     <div class="sidebar-cat-list-wrap sidebar-cat-list-adjust">
+   <h3>Columns</h3>
+   <table class="sidebar-tables">
+     <thead>
+     <tr>
+       <td><div class="caticon-mixing"></div></td>
+       <td><a href="/columns/mixing-mastering/">Mixing & Mastering</a></td> 
+       <td><div class="caticon-reviews"></div></td>
+       <td><a href="/reviews/">Gear Reviews</a></td> 
+     </tr>
+     <tr>
+       <td><div class="caticon-theory"></div></td>
+       <td><a href="/columns/music-theory/">Music Theory</a></td> 
+       <td><div class="caticon-gigs"></div></td>
+       <td><a href="/columns/gigs-live-performance/">Gigs & Live Performance</a></td>    
+     </tr>
+     <tr>
+       <td><div class="caticon-beat"></div></td>
+       <td><a href="/columns/beat-production/">Beat Production</a></td> 
+       <td><div class="caticon-studio"></div></td> 
+       <td><a href="/columns/studio-recording/">Studio Recording</a></td>  
+     </tr>
+     <tr>
+       <td><div class="caticon-marketing"></div></td>
+       <td><a href="/columns/careers-marketing/">Careers & Marketing</a></td> 
+       <td><div class="caticon-guitar"></div></td>
+       <td><a href="/columns/guitar-guru/">Guitar Guru</a></td> 
+     </tr>
+   </table>
+  </div>
+	  
+  <div class="sidebar-cat-list-wrap">
+   <h3>Blog</h3>
+   <table class="sidebar-tables">
+     <thead>
+     <tr>
+       <td><div class="caticon-interesting"></div></td>
+       <td><a href="/blog/interesting/">Interesting</a></td> 
+       <td><div class="caticon-question"></div></td>
+       <td><a href="/blog/q-and-a/">Questions & Answers</a></td> 
+     </tr>
+   </table>
+  </div>
+	  
+  <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup" class="email-optin">
+<form action="//ledgernote.us10.list-manage.com/subscribe/post?u=b8abfe94eaaabad483e3ed60c&amp;id=6bd1de648f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	Join Our Mailing List
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="your email address">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_b8abfe94eaaabad483e3ed60c_6bd1de648f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" name="subscribe" value="submit" id="mc-embedded-subscribe" class="button"></div>
+    <div class="no-spam">No Spam.  Just Industry News, Tips, and Exclusive Deals.</div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+  <div class="sidebar-cat-list-wrap-popular">
+    <h3>Useful Articles</h3>
+    <a href="/columns/studio-recording/acoustic-treatment-guide-for-panels-and-foam/"><img alt="acoustic treatment" width="302" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/01-Acoustic-Treatment.png" /><noscript><img alt="acoustic treatment" width="302" height="75" src="/wp-content/themes/ledgernote/images/horizontals/01-Acoustic-Treatment.png" class="horizontals" /></noscript></a>
+    <a href="/columns/studio-recording/how-to-setup-a-recording-studio/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" width="302" height="75" alt="how to setup a recording studio" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/02-Recording-Studio.png" /><noscript><img src="/wp-content/themes/ledgernote/images/horizontals/02-Recording-Studio.png" width="302" height="75" alt="how to setup a recording studio" class="horizontals" /></noscript></a>
+    <a href="/columns/studio-recording/recording-vocals-at-home-clean-clear/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" width="302" height="75" alt="recording vocals at home" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/03-Vocals-at-Home.png" /><noscript><img src="/wp-content/themes/ledgernote/images/horizontals/03-Vocals-at-Home.png" width="302" height="75" alt="recording vocals at home" class="horizontals" /></noscript></a>
+    <a href="/columns/mixing-mastering/mixing-bass-and-kick-for-low-end-balance/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" width="302" height="75" alt="mixing kick and bass for low end balance" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/04-Low-End-Balance.png" /><noscript><img src="/wp-content/themes/ledgernote/images/horizontals/04-Low-End-Balance.png" width="302" height="75" alt="mixing kick and bass for low end balance" class="horizontals" /></noscript></a>
+  </div>
+
+  <div class="sidebar-cat-list-wrap-popular">
+    <h3>Popular Posts</h3>
+    <a href="/blog/interesting/warning-most-dangerously-relaxing-song-ever/"><img alt="most relaxing song" width="302" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/06-Most-Relaxing-Song.png" /><noscript><img alt="most relaxing song" width="302" height="75" src="/wp-content/themes/ledgernote/images/horizontals/06-Most-Relaxing-Song.png" class="horizontals" /></noscript></a>
+    <a href="/blog/interesting/klaatu-the-secret-band-as-good-as-the-beatles/"><img alt="klaatu and the beatles" width="302" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/07-Klaatu.png" /><noscript><img alt="klaatu and the beatles" width="302" height="75" src="/wp-content/themes/ledgernote/images/horizontals/07-Klaatu.png" class="horizontals" /></noscript></a>
+    <a href="/blog/interesting/archangel-metatron-told-santana-to-collab-with-pop-stars/"><img alt="carlos santana and metatron" width="302" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/08-Metatron.png" /><noscript><img alt="carlos santana and metatron" width="302" height="75" src="/wp-content/themes/ledgernote/images/horizontals/08-Metatron.png" class="horizontals" /></noscript></a>
+    <a href="/blog/interesting/eric-claptons-ridiculous-encounter-with-a-cunning-witch/"><img alt="eric clapton and the witch" width="302" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/09-Clapton-Witch.png" /><noscript><img alt="eric clapton and the witch" width="302" height="75" src="/wp-content/themes/ledgernote/images/horizontals/09-Clapton-Witch.png" class="horizontals" /></noscript></a>
+  </div>
+	  
+  <div class="sidebar-cat-list-wrap-popular">
+    <h3>Essential Reviews</h3>
+    <a href="/reviews/best-audio-interface/"><img alt="best audio interfaces" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" width="302" height="75" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/10-Audio-Interfaces.png" /><noscript><img alt="best audio interfaces" src="/wp-content/themes/ledgernote/images/horizontals/10-Audio-Interfaces.png" width="302" height="75" class="horizontals" /></noscript></a>
+    <a href="/reviews/best-studio-headphones/"><img alt="best studio headphones" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" width="302" height="75" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/11-Studio-Headphones.png" /><noscript><img alt="best studio headphones" src="/wp-content/themes/ledgernote/images/horizontals/11-Studio-Headphones.png" width="302" height="75" class="horizontals" /></noscript></a>
+    <a href="/reviews/best-studio-monitors/"><img alt="best studio monitors" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" width="302" height="75" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/12-Studio-Monitors.png" /><noscript><img alt="best studio monitors" src="/wp-content/themes/ledgernote/images/horizontals/12-Studio-Monitors.png" width="302" height="75" class="horizontals" /></noscript></a>
+    <a href="/reviews/best-vocal-microphones/"><img alt="best vocal microphones" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20302%2075'%3E%3C/svg%3E" width="302" height="75" class="horizontals" data-lazy-src="/wp-content/themes/ledgernote/images/horizontals/13-Vocal-Microphones.png" /><noscript><img alt="best vocal microphones" src="/wp-content/themes/ledgernote/images/horizontals/13-Vocal-Microphones.png" width="302" height="75" class="horizontals" /></noscript></a>
+  </div>
+	  
+  <div class="sidebar-cat-list-trend">
+   <h3>Trending Posts</h3>
+     <ul>
+       <li><span class="caticon-ln"></span><a href="/blog/interesting/top-10-richest-musicians-in-the-world/">The Top 10 Richest Musicians</a></li>
+       <li><span class="caticon-ln"></span><a href="/columns/beat-production/beats-boring-heres/">Your Beats are Boring & Here's Why</a></li>
+       <li><span class="caticon-ln"></span><a href="/columns/music-theory/circle-of-fifths-explained/">The Circle of Fifths Explained</a></li>
+       <li><span class="caticon-ln"></span><a href="/columns/guitar-guru/how-to-play-guitar/">How to Play Guitar w/ Fool's Gold</a></li>
+       <li><span class="caticon-ln"></span><a href="/columns/studio-recording/how-to-use-a-patchbay/">Patchbay Walkthrough & Tips</a></li>
+	   <li><span class="caticon-ln"></span><a href="/columns/mixing-mastering/mixing-with-reverb/">Mixing w/ Reverb Without the Mess</a></li>
+     </ul>
+  </div>
+  </div>      </div> <!-- /columns -->
+    </div> <!-- /row -->
+  </div> <!-- /container -->  
+  <!-- FOOTER ELEMENTS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="footer">
+
+  <div class="container">
+  <div class="footer__top-nav">
+    <div class="row">
+      <div class="five columns"><ul id="menu-footer" class="menu"><li id="menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://ledgernote.com/about/">About</a></li>
+<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="https://ledgernote.com/contact/">Contact</a></li>
+<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="https://ledgernote.com/faqs/">FAQs</a></li>
+</ul></div>      <div class="seven columns"><ul id="menu-social" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a title="LedgerNote RSS Feed" target="_blank" rel="noopener nofollow" href="/feed/"><span class="footer-icon socicon-rss"></span></a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a title="LedgerNote Twitter" target="_blank" rel="noopener" href="https://twitter.com/TheLedgerNote"><span class="footer-icon socicon-twitter"></span></a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a title="LedgerNote Facebook" target="_blank" rel="noopener" href="https://www.facebook.com/LedgerNote"><span class="footer-icon socicon-facebook"></span></a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a title="LedgerNote YouTube" target="_blank" rel="noopener" href="https://www.youtube.com/LedgernoteLN"><span class="footer-icon socicon-youtube"></span></a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a title="LedgerNote Pinterest" target="_blank" rel="noopener" href="https://www.pinterest.com/ledgernote/"><span class="footer-icon socicon-pinterest"></span></a></li>
+<li id="menu-item-1112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1112"><a title="LedgerNote Instagram" target="_blank" rel="noopener" href="https://www.instagram.com/ledger_note/"><span class="footer-icon socicon-instagram"></span></a></li>
+</ul></div>    </div>
+  </div>
+  </div>
+
+  <div class="footer__light-strip">
+    <div class="container">
+      <div class="row">
+        <div class="one-half column footer-ad-break">
+          <div class="feature-box">
+            <div class="feature-box__contents">
+              <a href="/reviews/best-audio-interface/"><img class="feature-box__contents--image u-pull-left" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2070'%3E%3C/svg%3E" alt="best audio interfaces for home and studio recording" width="120" height="70" data-lazy-src="https://ledgernote.com/wp-content/themes/ledgernote/images/footer/feature-audio-interface.png" /><noscript><img class="feature-box__contents--image u-pull-left" src="https://ledgernote.com/wp-content/themes/ledgernote/images/footer/feature-audio-interface.png" alt="best audio interfaces for home and studio recording" width="120" height="70" /></noscript></a>
+              <span class="feature-box__contents--title">Audio Interface Buying Guide</span>
+	      <span class="feature-box__contents--description">Remember when choosing an audio interface was confusing before you read this?</span>
+              <span class="feature-box__contents--link"><a href="/reviews/best-audio-interface/">Read Now &rsaquo;</a></span>
+            </div>
+          </div>
+        </div>
+        <div class="one-half column footer-ad-break">
+          <div class="feature-box">
+            <div class="feature-box__contents">
+              <a href="/reviews/best-vocal-microphones/"><img class="feature-box__contents--image u-pull-left" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2070'%3E%3C/svg%3E" alt="best vocal microphones for home and studio recording" width="120" height="70" data-lazy-src="https://ledgernote.com/wp-content/themes/ledgernote/images/footer/feature-vocal-mic.png" /><noscript><img class="feature-box__contents--image u-pull-left" src="https://ledgernote.com/wp-content/themes/ledgernote/images/footer/feature-vocal-mic.png" alt="best vocal microphones for home and studio recording" width="120" height="70" /></noscript></a>
+              <span class="feature-box__contents--title">Vocal Microphone Buying Guide</span>
+	      <span class="feature-box__contents--description">It's so easy to record studio quality vocals these days with the right mic...</span>
+		  <span class="feature-box__contents--link"><a href="/reviews/best-vocal-microphones/">Read Now &rsaquo;</a></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row credits-wrap">
+      <div class="twelve columns">
+        <div class="menu-very-bottom">
+          <div class="menu-bottom-container"><ul id="menu-bottom" class="menu"><li id="menu-item-11294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11294"><a href="https://ledgernote.com/advertising/">Advertising</a></li>
+<li id="menu-item-11296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11296"><a href="https://ledgernote.com/permissions/">Permissions</a></li>
+<li id="menu-item-11295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11295"><a href="https://ledgernote.com/disclosures/">Disclosures</a></li>
+</ul></div>        </div>
+        <div class="bottom-credits">Copyright &copy; 2014-2021 LedgerNote</div>
+      </div>
+    </div>
+
+      <div class="row">
+        <span class="tagline">Gear Gigs Grind Glory</span>
+      </div>
+  </div>
+
+
+  </div>
+<script type='text/javascript' src='https://ledgernote.com/wp-content/themes/ledgernote/js/main.min.js' id='jbh-main-js'></script>
+<script type='text/javascript' src='https://ledgernote.com/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script>window.lazyLoadOptions = {
+                elements_selector: "img[data-lazy-src],.rocket-lazyload",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                return;
+                            }
+
+                           if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                return;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script><script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?flags=gated&features=default%2CIntersectionObserver%2CIntersectionObserverEntry"></script><script data-no-minify="1" async src="https://ledgernote.com/wp-content/plugins/rocket-lazy-load/assets/js/16.1/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+</body>
+</html>
