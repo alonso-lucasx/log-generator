@@ -11,17 +11,18 @@ with open('Flute_html.txt', 'w') as file:
 names = open('Names.txt', 'w') #Create Names.txt file, where the 10 names will be stored.
 
 def create_namefile(html_file, names_file):
+#Goes through each line of the Flute_html.txt file and gathers only the 10 names on the
+#titles, adding them to the Names.txt file.        
     names = open(names_file, 'w')
     with open(html_file) as file:
         for linea in file.readlines():
             if "<h2>#" in linea:
                 nombre = linea.split('</h2>')
                 nombres = nombre[0][9:].strip()
-                print(nombres)
                 names.write(nombres + '\n')
+                
                         
 create_namefile('Flute_html.txt', 'Names.txt')
-#Goes through each line of the Flute_html.txt file and gathers only the 10 names on the
-#titles with string manipulation, adding them to the Names.txt file.             
+     
             
             
